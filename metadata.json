@@ -1,0 +1,6 @@
+{
+  "name": "CryptoScript Bot",
+  "description": "Your ultimate companion for cryptocurrency insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

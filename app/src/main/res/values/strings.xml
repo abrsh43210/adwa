@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoScript Bot</string>
+    <string name="welcome_heading">Welcome to CryptoScript Bot</string>
+    <string name="welcome_subtitle">Your ultimate companion for cryptocurrency insights.</string>
+    <string name="hero_banner_description">CryptoScript Bot abstract geometric network banner</string>
+    <string name="brand_icon_description">CryptoScript Bot emblem</string>
+</resources>
